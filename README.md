@@ -6,11 +6,11 @@ I utilized VS Code with Jupyter Notebook to analyze a superstore dataset, levera
 
 Once the dataset was clean, I proceeded with visualizations to derive insights:
 
-Histograms: Used for numerical columns to understand data distribution.
+**Histograms**: Used for numerical columns to understand data distribution.
 
-Boxplots: Identified and addressed any remaining anomalies or patterns.
+**Boxplots**: Identified and addressed any remaining anomalies or patterns.
 
-Bar Chart: Highlighted sales trends by sub-category, revealing key business insights.
+**Bar Chart**: Highlighted sales trends by sub-category, revealing key business insights.
 
 # Who Are the End Users?
 
